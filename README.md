@@ -1,2 +1,2 @@
 # Kangaroo2
-## Do not edit without permission.
+### Core plugin for KangarooMC.
